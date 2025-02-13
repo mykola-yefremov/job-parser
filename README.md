@@ -17,5 +17,4 @@ Die gesammelten Daten werden strukturiert in einer Excel-Datei gespeichert, um e
 - **Datenextraktion**: Verwendung der `requests`- und `BeautifulSoup`-Bibliotheken zum Sammeln und Parsen von HTML-Daten von der Website der Arbeitsagentur.
 - **Anpassbare Parameter**: Möglichkeit zur Festlegung der Anzahl der zu verarbeitenden Seiten, des Speicherpfads für die Datei und der HTTP-Header.
 - **Export nach Excel**: Speicherung der Ergebnisse im XLSX-Format mit Hilfe der `pandas`-Bibliothek, was das Sortieren und Filtern der Daten erleichtert.
-- 
 ![image](https://github.com/user-attachments/assets/839d0667-8917-4391-b9a8-2050cdea42e4)
